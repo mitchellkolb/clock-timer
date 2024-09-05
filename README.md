@@ -1,14 +1,14 @@
 
-<h1 align="center">Title</h1>
+<h1 align="center">A Basic Clock/Timer App</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/GIT-REPO?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/clock-timer?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/GIT-REPO?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/clock-timer?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/GIT-REPO?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/clock-timer?color=56BEB8">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/GIT-REPO?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/clock-timer?color=56BEB8" />
 </p>
 
 <p align="center">
@@ -20,16 +20,7 @@
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase our knowledge learning about Neural Network Design by developing a
-
-![project image](resources/image1.png)
-
-<details>
-<summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
-
-[![Full Video Demo Here](https://img.youtube.com/vi/VidKEY/0.jpg)](https://www.youtube.com/watch?v=VidKEY)
-
-</details>
+This project is a intended to be posted to Flathub to be able to be downloaded on my Linux PC because apparently there is no preinstalled timer app like on windows or macos. And the options that are avaliable on the software manager just don't have the functionality that these basic clock/timers apps should have.
 
 ---
 
@@ -46,8 +37,7 @@ This project is intended to showcase our knowledge learning about Neural Network
 ---
 
 # What I Learned in this Project
-- How to
-- Programming in 
+- Publishing apps on Flathub
 
 
 
@@ -55,26 +45,20 @@ This project is intended to showcase our knowledge learning about Neural Network
 - Python
 - VS Code
 - Terminal
-- Windows 10
-
-
+- MacOS
 
 
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
 
 
 
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
-- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+This project was implemented on my macbook:
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
 
 
 
@@ -102,9 +86,7 @@ The project employs a
 ### Implementation Details
 
 #### Files and Structure
-- `game.py`: Contains the racing game environment and controls the car's movement.
-> [!NOTE]
-> These files were 
+- `main.py`: Contains the code
 
 
 ### Implementation
@@ -127,6 +109,3 @@ Future improvements could include
 
 
 --- 
-# Acknowledgments
-This codebase and all supporting materials was made as apart of a course for my undergrad at WSU for CPTS XXX - XXX in the Spring of 2022. 
-
