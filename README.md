@@ -59,6 +59,9 @@ This project is a intended to be posted to Flathub to be able to be downloaded o
 # How to Set Up
 This project was implemented on my macbook:
 - Clone this repository 
+- `sudo apt-get install python3-gi python3-gi-cairo gir1.2-gtk-3.0`
+- `python3 main.py`
+
 
 
 
