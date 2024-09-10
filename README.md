@@ -57,9 +57,9 @@ This project is a intended to be posted to Flathub to be able to be downloaded o
 
 
 # How to Set Up
-This project was implemented on my macbook:
+This project was implemented on my Linux desktop:
 - Clone this repository 
-- `sudo apt-get install python3-gi python3-gi-cairo gir1.2-gtk-4.0`
+- `sudo apt install libgirepository1.0-dev gcc libcairo2-dev pkg-config python3-dev gir1.2-gtk-4.0`
 - `python3 main.py`
 
 
