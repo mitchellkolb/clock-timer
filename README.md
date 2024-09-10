@@ -57,12 +57,13 @@ This project is a intended to be posted to Flathub to be able to be downloaded o
 
 
 # How to Set Up
-This project was implemented on my Linux desktop using information from the [PyGOject site](https://pygobject.gnome.org/getting_started.html#ubuntu-getting-started) and this [GTK YouTube Video.](https://youtu.be/Yu2EBmeCpJw?si=1T4h0TMkTJBPFGvC):
+This project was implemented on my Linux desktop using information from the [PyGOject site](https://pygobject.gnome.org/getting_started.html#ubuntu-getting-started) and this [GTK YouTube Video.](https://youtu.be/Yu2EBmeCpJw?si=1T4h0TMkTJBPFGvC)
 - Clone this repository 
 - `sudo apt install libgirepository1.0-dev gcc libcairo2-dev pkg-config python3-dev gir1.2-gtk-4.0`
-- `python3 -m venv .venv`
-- `source venv/bin/activate`
-- `pip install -r requirements.txt`
+- In the codebase that was cloned create a virtual environment: `python3 -m venv .venv`
+- Activate the virtual environment: `source .venv/bin/activate`
+- Download External Python Libraries: `pip install -r requirements.txt`
+- The program should begin to run: `python3 main.py`
 
 
 
