@@ -37,15 +37,18 @@ This project is a intended to be posted to Flathub to be able to be downloaded o
 ---
 
 # What I Learned in this Project
-- Publishing apps on Flathub
+- How to publish compiled GTK python apps on Flathub
+- Programming with a new UI library PyGObject that uses GTK
+- Planning and execution of an app from start to finish
 
 
 
 # Tools Used / Development Environment
 - Python
+- PyGObject/GTK
 - VS Code
 - Terminal
-- MacOS
+- Linux Mint
 
 
 

@@ -13,7 +13,7 @@ class RandomTextWindow(Gtk.Window):
         self.current_index = 0  # Keep track of the current index in the text list
 
         # Set the window size to be a vertical rectangle
-        self.set_default_size(400, 300)
+        self.set_default_size(300, 300)
 
         # Create a vertical box to arrange the label and button
         vbox = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=10)
@@ -43,7 +43,7 @@ class RandomTextWindow(Gtk.Window):
         # Add the vbox to the window
         self.set_child(vbox)
 
-    def on_button_clicked(self, button):
+    def on_button_clicked(self):
         """Cycle through the text list and update the label."""
         self.current_index += 1
 
