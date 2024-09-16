@@ -28,11 +28,9 @@ This project is a intended to be posted to Flathub to be able to be downloaded o
 # Table of Contents
 - [What I Learned](#what-i-learned-in-this-project)
 - [Tools Used / Development Environment](#tools-used--development-environment)
-- [Team / Contributors / Teachers](#team--contributors--teachers)
 - [How to Set Up](#how-to-set-up)
 - [Project Overview](#project-overview)
-- [References](#references)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
@@ -51,9 +49,6 @@ This project is a intended to be posted to Flathub to be able to be downloaded o
 - Linux Mint
 
 
-
-# Team / Contributors / Teachers
-- [Mitchell Kolb](https://github.com/mitchellkolb)
 
 
 
@@ -80,40 +75,20 @@ This project utilizes
 
 ## Project Details
 
-### Introduction
-In this project, we apply 
 
-
-### Literature Review
-In this we drew inspiration from various sources, including video tutorials online for 
-
-
-### Technical Plan
+## Technical Plan
 The project employs a 
 
 
-### Implementation Details
-
-#### Files and Structure
+## Files and Structure
 - `main.py`: Contains the code
 
 
-### Implementation
-In this project
-
-#### Results and Observations
-During development,
-<p float="left">
-  <img src="resources/image1.png" alt="First Try" width="300" />
-  <img src="resources/image2.png" alt="Final Try" width="307" />
-</p>
-
-#### Future Work
+## Future Work
 Future improvements could include
 
 
 
-## References
 
 
 
