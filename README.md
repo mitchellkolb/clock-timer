@@ -20,7 +20,7 @@
     alt="Website Badge" />
 </p>
 
-This project is a intended to be posted to Flathub to be able to be downloaded on my Linux PC because apparently there is no preinstalled timer app like on windows or macos. And the options that are avaliable on the software manager just don't have the functionality that these basic clock/timers apps should have.
+This is a Linux designed clock app that combines two features that other clock apps on MacOS and Windows have like custom timer alert sounds and break spaces. Other flathub clock apps have these feature but there is none that have it all in one. That is what this app plans to deliver.
 
 ---
 
