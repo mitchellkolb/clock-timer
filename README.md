@@ -69,7 +69,7 @@ This project was implemented on my Linux desktop using information from the [PyG
 
 
 # Project Overview
-This project utilizes 
+This Linux-designed clock app combines features commonly found in MacOS and Windows clock apps, such as world clock, stopwatch, timer, and alarm. With added features like a custom timer alert sounds and break scheduling, into a single solution. Unlike other clock apps available on Flathub, this app integrates all these functionalities, providing users with a comprehensive and efficient time management and clock utility. Throughout the project, I learned how to work with the PyGObject/GTK library for UI development, and successfully published a compiled app on Flathub. The development process was supported by tools like Python, VS Code, and Linux Mint.
 
 
 
