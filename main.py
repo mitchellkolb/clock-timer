@@ -1,5 +1,5 @@
 import random
-from guiFile import start_gui 
+from guiFile import start_gui
 
 random_text_list = [
     "Hello, World!",

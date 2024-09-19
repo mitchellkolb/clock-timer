@@ -43,7 +43,7 @@ class RandomTextWindow(Gtk.Window):
         # Add the vbox to the window
         self.set_child(vbox)
 
-    def on_button_clicked(self):
+    def on_button_clicked(self, button):
         """Cycle through the text list and update the label."""
         self.current_index += 1
 
@@ -54,6 +54,7 @@ class RandomTextWindow(Gtk.Window):
 
         # Update the label with the new text
         self.label.set_text(self.text_list[self.current_index])
+
 
 class MyApplication(Gtk.Application):
     def __init__(self, get_random_text_func):
